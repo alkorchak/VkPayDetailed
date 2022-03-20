@@ -1,4 +1,3 @@
-import com.sun.javafx.scene.control.skin.FXVK
 const val MASTER = "Mastercard"
 const val MAESTRO = "Maestro"
 const val VISA = "Visa"
